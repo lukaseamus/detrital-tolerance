@@ -1,0 +1,144 @@
+﻿Reference,DOI,Site,Depth,Month,Temperature,PAR,E,k,Method,Ec.mean,Ec.sem,Ek.mean,Ek.sem,n,Source
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",3,February,20,673.55,Emax,0.283,Oxygen evolution,21.44901,3.221959,138.26398,8.77527,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",3,March,19.35,536.52,Emax,0.239,Oxygen evolution,15.552424,2.004728,123.28181,8.77526,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",3,May,15.7,279.77,Emax,0.371,Oxygen evolution,6.039901,1.0381396,96.52795,6.84898,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",3,June,14.4,350.26,Emax,0.266,Oxygen evolution,10.739973,1.431934,110.43995,10.91558,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",3,September,14.55,468.77,Emax,0.2,Oxygen evolution,8.637996,0.715991,125.63615,10.27349,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",3,October,15.5,663.14,Emax,0.191,Oxygen evolution,13.5527725,1.2887835,152.17598,3.4245,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",3,December,18.9,705.13,Emax,0.211,Oxygen evolution,15.603633,1.825683,116.432816,7.063024,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",5,February,20,402.21,Emax,0.283,Oxygen evolution,18.167849,3.317302,111.84,13.226666,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",5,May,15.7,183.11,Emax,0.371,Oxygen evolution,3.8324115,0.6490372,92,5.76,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",5,September,14.55,383.26,Emax,0.2,Oxygen evolution,10.410355,2.415812,113.54667,15.35999,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",5,October,15.5,532.5,Emax,0.191,Oxygen evolution,14.07793,1.298075,122.293335,8.533325,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",10,February,20,92.65,Emax,0.283,Oxygen evolution,10.127786,2.496285,101.88284,7.488864,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",10,March,19.35,101.02,Emax,0.239,Oxygen evolution,9.414561,1.105499,105.588844,17.384866,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",10,May,15.7,34.26,Emax,0.371,Oxygen evolution,4.778603,1.105498,81.47973,5.616645,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",10,June,14.4,54.3,Emax,0.266,Oxygen evolution,6.448737,0,87.592865,0,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",10,September,14.55,115.6,Emax,0.2,Oxygen evolution,13.551263,2.615155,129.01088,26.47848,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",10,October,15.5,174.55,Emax,0.191,Oxygen evolution,15.423477,2.16939,142.34586,16.04734,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",10,December,18.9,160.43,Emax,0.211,Oxygen evolution,13.610699,1.39673,113.42181,6.15201,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",12,March,19.35,62.69,Emax,0.239,Oxygen evolution,9.21365,0.890208,97.02178,8.76832,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",12,June,14.4,31.88,Emax,0.266,Oxygen evolution,3.338279,0.8902075,89.53664,15.61187,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",12,September,14.55,77.49,Emax,0.2,Oxygen evolution,9.258161,1.24629,108.14257,17.96436,8,"Table 1, Figure 1c, d"
+Fairhead & Cheshire 2004,10.1007/s00227-004-1330-x,"Abalone Cove, West Island, South Australia, Australia",12,December,18.9,105.1,Emax,0.211,Oxygen evolution,14.599406,2.626114,95.31089,10.47921,8,"Table 1, Figure 1c, d"
+Miller et al. 2006,10.2216/04-98.1,"Causet Cove, Doubtful Sound, Fjordland, New Zealand",10,November,12,44.88455375,Emax,0.37,Oxygen evolution,0.4676681,0.05871846,17.73056,0.153708,5,"Table 1, Figure 3"
+Miller et al. 2006,10.2216/04-98.1,"Thompson Sound, Fjordland, New Zealand",10,November,12,28.74588323,Emax,0.39,Oxygen evolution,0.44855905,0.01921668,18.481012,0.271248,5,"Table 1, Figure 3"
+Miller et al. 2006,10.2216/04-98.1,"Seymour Island, Doubtful Sound, Fjordland, New Zealand",10,November,12,5.799412576,Emax,0.57,Oxygen evolution,0.361121,0.03042742,14.0054245,0.0994575,5,"Table 1, Figure 3"
+Miller et al. 2006,10.2216/04-98.1,"Bradshaw Sound, Fjordland, New Zealand",10,November,12,5.019213368,Emax,0.54,Oxygen evolution,0.346282,0.03042743,12.585896,0.162748,5,"Table 1, Figure 3"
+Miller et al. 2006,10.2216/04-98.1,"Elizabeth Island, Doubtful Sound, Fjordland, New Zealand",10,November,12,6.15384201,Emax,0.52,Oxygen evolution,0.3389175,0.0266904,13.0651,0.180832,5,"Table 1, Figure 3"
+Staehr & Wernberg 2009,10.1111/j.1529-8817.2008.00635.x,"Hamelin Bay, Western Australia, Australia",10–12,December,10,NA,NA,NA,Oxygen evolution,14.552826,2.299755,71.06165,8.51782,4,Figure 4
+Staehr & Wernberg 2009,10.1111/j.1529-8817.2008.00635.x,"Hamelin Bay, Western Australia, Australia",10–12,December,20,NA,NA,NA,Oxygen evolution,25.34398,5.085994,74.03552,7.28567,4,Figure 4
+Staehr & Wernberg 2009,10.1111/j.1529-8817.2008.00635.x,"Hamelin Bay, Western Australia, Australia",10–12,December,25,NA,NA,NA,Oxygen evolution,33.769043,2.520885,111.57632,18.85704,4,Figure 4
+Staehr & Wernberg 2009,10.1111/j.1529-8817.2008.00635.x,"Hamelin Bay, Western Australia, Australia",10–12,December,30,NA,NA,NA,Oxygen evolution,51.348896,3.515972,68.759605,3.535765,4,Figure 4
+Staehr & Wernberg 2009,10.1111/j.1529-8817.2008.00635.x,"Marmion Lagoon, Western Australia, Australia",10–12,December,10,NA,NA,NA,Oxygen evolution,16.41032,3.759214,63.40082,4.01797,4,Figure 4
+Staehr & Wernberg 2009,10.1111/j.1529-8817.2008.00635.x,"Marmion Lagoon, Western Australia, Australia",10–12,December,20,NA,NA,NA,Oxygen evolution,25.255527,3.582309,90.32126,10.17863,4,Figure 4
+Staehr & Wernberg 2009,10.1111/j.1529-8817.2008.00635.x,"Marmion Lagoon, Western Australia, Australia",10–12,December,25,NA,NA,NA,Oxygen evolution,36.02457,6.965603,115.80841,26.67865,4,Figure 4
+Staehr & Wernberg 2009,10.1111/j.1529-8817.2008.00635.x,"Marmion Lagoon, Western Australia, Australia",10–12,December,30,NA,NA,NA,Oxygen evolution,43.896805,2.852577,110.43833,17.357164,4,Figure 4
+Staehr & Wernberg 2009,10.1111/j.1529-8817.2008.00635.x,"Jurien Bay, Western Australia, Australia",10–12,December,10,NA,NA,NA,Oxygen evolution,20.058968,1.415233,65.38302,12.91089,4,Figure 4
+Staehr & Wernberg 2009,10.1111/j.1529-8817.2008.00635.x,"Jurien Bay, Western Australia, Australia",10–12,December,20,NA,NA,NA,Oxygen evolution,22.226044,4.97543,91.01758,19.55365,4,Figure 4
+Staehr & Wernberg 2009,10.1111/j.1529-8817.2008.00635.x,"Jurien Bay, Western Australia, Australia",10–12,December,25,NA,NA,NA,Oxygen evolution,26.250614,3.936117,91.848656,13.861696,4,Figure 4
+Staehr & Wernberg 2009,10.1111/j.1529-8817.2008.00635.x,"Jurien Bay, Western Australia, Australia",10–12,December,30,NA,NA,NA,Oxygen evolution,46.948402,7.429972,103.13916,15.73656,4,Figure 4
+Staehr & Wernberg 2009,10.1111/j.1529-8817.2008.00635.x,"Kalbarri, Western Australia, Australia",10–12,December,10,NA,NA,NA,Oxygen evolution,18.555283,1.769041,59.583946,4.754471,4,Figure 4
+Staehr & Wernberg 2009,10.1111/j.1529-8817.2008.00635.x,"Kalbarri, Western Australia, Australia",10–12,December,20,NA,NA,NA,Oxygen evolution,25.388206,1.945946,74.06234,6.7634,4,Figure 4
+Staehr & Wernberg 2009,10.1111/j.1529-8817.2008.00635.x,"Kalbarri, Western Australia, Australia",10–12,December,25,NA,NA,NA,Oxygen evolution,24.83538,3.825551,82.47364,12.58943,4,Figure 4
+Staehr & Wernberg 2009,10.1111/j.1529-8817.2008.00635.x,"Kalbarri, Western Australia, Australia",10–12,December,30,NA,NA,NA,Oxygen evolution,25.719902,4.599508,66.9784,9.307975,4,Figure 4
+Rodgers et al. 2015,10.3354/meps11273,"Alphabet Bay, Goat Island, Leigh, Hauraki Gulf, New Zealand",6,June–August,NA,500.19733,Emax,NA,Oxygen evolution,15,2.8,80.3,7.8,6,"Table 1, Figure 2"
+Rodgers et al. 2015,10.3354/meps11273,"North Reef, Goat Island, Leigh, Hauraki Gulf, New Zealand",14,June–August,NA,371.54697,Emax,NA,Oxygen evolution,5.1,0.8,91.9,10.7,6,"Table 1, Figure 2"
+Rodgers et al. 2015,10.3354/meps11273,"Alphabet Bay, Goat Island, Leigh, Hauraki Gulf, New Zealand",6,June–August,NA,500.19733,Emax,NA,Oxygen evolution,25.3,2.9,179,14.2,10,"Table 2, Figure 2"
+Rodgers et al. 2015,10.3354/meps11273,"Alphabet Bay, Goat Island, Leigh, Hauraki Gulf, New Zealand",6,June–August,NA,500.19733,Emax,NA,Oxygen evolution,24.5,4.1,80.6,8.5,10,"Table 2, Figure 2"
+Rodgers et al. 2015,10.3354/meps11273,"Alphabet Bay, Goat Island, Leigh, Hauraki Gulf, New Zealand",6,June–August,NA,500.19733,Emax,NA,Oxygen evolution,39.6,5.1,105.5,8.4,10,"Table 2, Figure 2"
+Rodgers & Shears 2016,10.3354/meps11801,"Alphabet Bay, Goat Island, Leigh, Hauraki Gulf, New Zealand",6,December–Februray,NA,NA,NA,NA,Oxygen evolution,28.1,7.1,104,19.9,7,Table S1
+Rodgers & Shears 2016,10.3354/meps11801,"Alphabet Bay, Goat Island, Leigh, Hauraki Gulf, New Zealand",6,March–May,NA,NA,NA,NA,Oxygen evolution,10.2,1.8,87.5,23.8,5,Table S1
+Rodgers & Shears 2016,10.3354/meps11801,"Alphabet Bay, Goat Island, Leigh, Hauraki Gulf, New Zealand",6,June–August,NA,NA,NA,NA,Oxygen evolution,15,2.8,80.3,7.8,6,Table S1
+Rodgers & Shears 2016,10.3354/meps11801,"Alphabet Bay, Goat Island, Leigh, Hauraki Gulf, New Zealand",6,September–November,NA,NA,NA,NA,Oxygen evolution,26.5,3.2,178.4,14,10,Table S1
+Rodgers & Shears 2016,10.3354/meps11801,"North Reef, Goat Island, Leigh, Hauraki Gulf, New Zealand",14,December–Februray,NA,NA,NA,NA,Oxygen evolution,11.2,1.8,186.6,19.9,5,Table S1
+Rodgers & Shears 2016,10.3354/meps11801,"North Reef, Goat Island, Leigh, Hauraki Gulf, New Zealand",14,June–August,NA,NA,NA,NA,Oxygen evolution,5.1,0.8,91.9,10.7,6,Table S1
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,478.14815,E,NA,Pulse amplitude modulated fluorometry,NA,NA,85.38724,7.25767,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,446.03174,E,NA,Pulse amplitude modulated fluorometry,NA,NA,69.94642,6.234777,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,207.14286,E,NA,Pulse amplitude modulated fluorometry,NA,NA,98.14905,8.32927,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,311.95767,E,NA,Pulse amplitude modulated fluorometry,NA,NA,55.82075,4.481246,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,250.15874,E,NA,Pulse amplitude modulated fluorometry,NA,NA,52.16756,3.84803,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,244.12698,E,NA,Pulse amplitude modulated fluorometry,NA,NA,44.71505,4.432537,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,191.16402,E,NA,Pulse amplitude modulated fluorometry,NA,NA,61.86069,10.569896,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,186.13757,E,NA,Pulse amplitude modulated fluorometry,NA,NA,66.48807,9.25475,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,114.17989,E,NA,Pulse amplitude modulated fluorometry,NA,NA,55.840233,9.391133,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,107.06879,E,NA,Pulse amplitude modulated fluorometry,NA,NA,45.51388,3.7019,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,105.164025,E,NA,Pulse amplitude modulated fluorometry,NA,NA,67.88115,12.235753,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,98.09524,E,NA,Pulse amplitude modulated fluorometry,NA,NA,59.73697,11.027764,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,71.0476225,E,NA,Pulse amplitude modulated fluorometry,NA,NA,54.905018,6.468582,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,64.14815,E,NA,Pulse amplitude modulated fluorometry,NA,NA,59.775936,8.533851,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,55.089947,E,NA,Pulse amplitude modulated fluorometry,NA,NA,61.95811,11.37847,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,43.195767,E,NA,Pulse amplitude modulated fluorometry,NA,NA,40.68193,8.14418,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,12.084656,E,NA,Pulse amplitude modulated fluorometry,NA,NA,40.37019,4.71505,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,76.21164,E,NA,Pulse amplitude modulated fluorometry,NA,NA,26.341938,1.32489,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,47.9365075,E,NA,Pulse amplitude modulated fluorometry,NA,NA,24.666342,1.169022,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,42.05291,E,NA,Pulse amplitude modulated fluorometry,NA,NA,26.380905,9.274233,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,23.047619,E,NA,Pulse amplitude modulated fluorometry,NA,NA,23.692158,1.169022,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,10.2645505,E,NA,Pulse amplitude modulated fluorometry,NA,NA,30.667316,3.935703,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,8.9947085,E,NA,Pulse amplitude modulated fluorometry,NA,NA,28.251339,1.558695,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,7.7671957,E,NA,Pulse amplitude modulated fluorometry,NA,NA,28.251339,1.753531,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,6.03174615,E,NA,Pulse amplitude modulated fluorometry,NA,NA,24.744276,1.909401,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,0.994709,E,NA,Pulse amplitude modulated fluorometry,NA,NA,18.977106,2.415976,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,0.95238095,E,NA,Pulse amplitude modulated fluorometry,NA,NA,18.587433,1.675596,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,0.95238095,E,NA,Pulse amplitude modulated fluorometry,NA,NA,18.19776,1.32489,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,0.86772487,E,NA,Pulse amplitude modulated fluorometry,NA,NA,18.080858,1.05212,10,Figure 5c
+Randall et al. 2019,10.3354/meps12919,"Canoe Bay, Tasmania, Australia",7–8,February,NA,0.994709,E,NA,Pulse amplitude modulated fluorometry,NA,NA,15.236239,1.831465,10,Figure 5c
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Motutapu Island, Hauraki Gulf, New Zealand",10,August,NA,0.93719786,Ed,NA,Oxygen evolution,4.614544,0.4496717,31.680681,5.278536,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Motutapu Island, Hauraki Gulf, New Zealand",10,December,NA,1.7493997,Ed,NA,Oxygen evolution,9.639426,0.7624695,62.618973,6.017593,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Motutapu Island, Hauraki Gulf, New Zealand",10,March,NA,2.709552,Ed,NA,Oxygen evolution,14.957556,0.918865,66.95339,6.12311,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Motutapu Island, Hauraki Gulf, New Zealand",10,June,NA,1.2498513,Ed,NA,Oxygen evolution,4.5181007,0.6451753,27.26423,3.272786,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Motutapu Island, Hauraki Gulf, New Zealand",10,August,NA,0.91459304,Ed,NA,Oxygen evolution,4.538104,0.5083013,30.437357,2.850267,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Noises Islands, Hauraki Gulf, New Zealand",10,August,NA,1.000326,Ed,NA,Oxygen evolution,5.6926136,0.5669737,44.281506,4.961818,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Noises Islands, Hauraki Gulf, New Zealand",10,December,NA,1.8059508,Ed,NA,Oxygen evolution,7.0029454,0.8602081,54.211056,5.806568,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Noises Islands, Hauraki Gulf, New Zealand",10,March,NA,3.8346589,Ed,NA,Oxygen evolution,15.742363,0.918873,71.319664,6.228856,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Noises Islands, Hauraki Gulf, New Zealand",10,June,NA,1.4083244,Ed,NA,Oxygen evolution,5.5766273,0.4496574,38.914967,3.378243,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Noises Islands, Hauraki Gulf, New Zealand",10,August,NA,0.95470756,Ed,NA,Oxygen evolution,6.319978,0.6060536,45.14956,5.17325,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Tiritiri Matangi Island, Hauraki Gulf, New Zealand",10,August,NA,1.4389254,Ed,NA,Oxygen evolution,10.094247,1.192585,48.75353,4.96176,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Tiritiri Matangi Island, Hauraki Gulf, New Zealand",10,December,NA,2.882392,Ed,NA,Oxygen evolution,14.532604,1.192571,154.11996,16.57473,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Tiritiri Matangi Island, Hauraki Gulf, New Zealand",10,March,NA,5.08207,Ed,NA,Oxygen evolution,17.28964,1.075268,86.348755,5.278545,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Tiritiri Matangi Island, Hauraki Gulf, New Zealand",10,June,NA,3.2442605,Ed,NA,Oxygen evolution,7.9254613,0.8797717,53.099483,5.700821,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Tiritiri Matangi Island, Hauraki Gulf, New Zealand",10,August,NA,1.1730195,Ed,NA,Oxygen evolution,7.476235,0.625617,48.35478,4.32833,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Motuora Island, Hauraki Gulf, New Zealand",10,August,NA,1.1752383,Ed,NA,Oxygen evolution,8.376612,0.586516,43.829426,3.27261,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Motuora Island, Hauraki Gulf, New Zealand",10,December,NA,2.4773314,Ed,NA,Oxygen evolution,9.198171,0.312806,69.80589,3.48382,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Motuora Island, Hauraki Gulf, New Zealand",10,March,NA,4.6539927,Ed,NA,Oxygen evolution,13.519219,0.977524,68.22823,2.63919,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Motuora Island, Hauraki Gulf, New Zealand",10,June,NA,3.115377,Ed,NA,Oxygen evolution,7.1462417,0.5083227,47.22523,3.48393,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Motuora Island, Hauraki Gulf, New Zealand",10,August,NA,1.1493497,Ed,NA,Oxygen evolution,6.364674,0.3714634,42.269325,2.639412,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Leigh, Hauraki Gulf, New Zealand",10,August,NA,1.5546564,Ed,NA,Oxygen evolution,8.614023,1.094812,52.10169,5.27859,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Leigh, Hauraki Gulf, New Zealand",10,December,NA,3.9680445,Ed,NA,Oxygen evolution,14.088542,0.899315,111.01675,8.23455,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Leigh, Hauraki Gulf, New Zealand",10,March,NA,5.5824795,Ed,NA,Oxygen evolution,13.89347,0.997074,70.16641,5.48968,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Leigh, Hauraki Gulf, New Zealand",10,June,NA,3.9419453,Ed,NA,Oxygen evolution,6.151983,0.782006,44.72934,4.43413,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Leigh, Hauraki Gulf, New Zealand",10,August,NA,1.3150533,Ed,NA,Oxygen evolution,9.026306,0.664712,57.509502,5.278653,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Katherine Bay, Great Barrier Island, Hauraki Gulf, New Zealand",10,August,NA,1.5290152,Ed,NA,Oxygen evolution,7.893448,0.606053,61.852245,6.22868,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Katherine Bay, Great Barrier Island, Hauraki Gulf, New Zealand",10,December,NA,3.975278,Ed,NA,Oxygen evolution,15.342557,0.899323,131.11324,10.02937,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Katherine Bay, Great Barrier Island, Hauraki Gulf, New Zealand",10,March,NA,6.0763173,Ed,NA,Oxygen evolution,15.890398,1.21212,96.38601,6.96768,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Katherine Bay, Great Barrier Island, Hauraki Gulf, New Zealand",10,June,NA,4.100424,Ed,NA,Oxygen evolution,7.3082395,0.7820135,52.157257,5.067391,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Katherine Bay, Great Barrier Island, Hauraki Gulf, New Zealand",10,August,NA,1.2663945,Ed,NA,Oxygen evolution,7.308685,0.586517,44.562054,3.800529,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Southwest Bay, Mokohinaus Islands, Hauraki Gulf, New Zealand",10,August,NA,1.8058523,Ed,NA,Oxygen evolution,10.437799,0.840658,63.79031,4.11736,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Southwest Bay, Mokohinaus Islands, Hauraki Gulf, New Zealand",10,December,NA,4.663098,Ed,NA,Oxygen evolution,17.4568,1.114356,150.36531,8.02341,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Southwest Bay, Mokohinaus Islands, Hauraki Gulf, New Zealand",10,March,NA,6.9186664,Ed,NA,Oxygen evolution,13.488507,0.821129,91.462074,6.545396,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Southwest Bay, Mokohinaus Islands, Hauraki Gulf, New Zealand",10,June,NA,4.0386124,Ed,NA,Oxygen evolution,8.835974,0.703797,67.18658,5.17296,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Southwest Bay, Mokohinaus Islands, Hauraki Gulf, New Zealand",10,August,NA,1.750373,Ed,NA,Oxygen evolution,8.15215,0.625611,51.673313,3.167157,10–14,"Figure 2a, 3d, e"
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Motutapu Island, Hauraki Gulf, New Zealand",10,February–March,NA,2.70973215,Ed,NA,Oxygen evolution,15.0021515,1.3360275,57.391304,7.095654,9,Figure 4
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Noises Islands, Hauraki Gulf, New Zealand",10,February–March,NA,3.83944865,Ed,NA,Oxygen evolution,13.87823,0.646464,66.85217,6.399995,9,Figure 4
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Motuora Island, Hauraki Gulf, New Zealand",10,February–March,NA,4.6543175,Ed,NA,Oxygen evolution,17.467274,0.804504,94.12174,14.74783,9,Figure 4
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Tiritiri Matangi Island, Hauraki Gulf, New Zealand",10,February–March,NA,5.0826043,Ed,NA,Oxygen evolution,13.170573,1.034328,79.930435,9.878255,9,Figure 4
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Leigh, Hauraki Gulf, New Zealand",10,February–March,NA,5.5779915,Ed,NA,Oxygen evolution,14.260906,0.747025,113.73913,8.765215,9,Figure 4
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Katherine Bay, Great Barrier Island, Hauraki Gulf, New Zealand",10,February–March,NA,6.0807582,Ed,NA,Oxygen evolution,16.069532,1.091863,146.85217,8.90434,9,Figure 4
+Blain & Shears 2019,10.1007/s11120-019-00636-7,"Southwest Bay, Mokohinaus Islands, Hauraki Gulf, New Zealand",10,February–March,NA,6.91547,Ed,NA,Oxygen evolution,13.754097,0.603367,114.434784,8.069564,9,Figure 4
+Blain & Shears 2020,10.1002/lno.11449,"Nordic Reef, Leigh, Hauraki Gulf, New Zealand",7,March,24.4,6.158342,Ed,NA,Oxygen evolution,14.391432,1.168451,65.09653,9.26641,9,"Figure 2g, I, S2.1"
+Blain & Shears 2020,10.1002/lno.11449,"Nordic Reef, Leigh, Hauraki Gulf, New Zealand",7,March,24.4,6.158342,Ed,NA,Oxygen evolution,11.528725,0.70107,60.54054,5.32819,9,"Figure 2g, I, S2.1"
+Blain & Shears 2020,10.1002/lno.11449,"Nordic Reef, Leigh, Hauraki Gulf, New Zealand",16,March,24.4,1.5209924,Ed,NA,Oxygen evolution,7.7702045,0.6426485,57.2973,4.555983,9,"Figure 2g, I, S2.1"
+Blain & Shears 2020,10.1002/lno.11449,"Nordic Reef, Leigh, Hauraki Gulf, New Zealand",16,March,24.4,1.5209924,Ed,NA,Oxygen evolution,8.510224,0.934761,58.68726,6.486484,9,"Figure 2g, I, S2.1"
+Blain & Shears 2020,10.1002/lno.11449,"Nordic Reef, Leigh, Hauraki Gulf, New Zealand",5–7,May,19.9,3.074942,Ed,NA,Oxygen evolution,11.13246,0.875486,65.61276,4.64105,9,"Figure 2h, j, S2.1"
+Blain & Shears 2020,10.1002/lno.11449,"Nordic Reef, Leigh, Hauraki Gulf, New Zealand",5–7,May,19.9,3.074942,Ed,NA,Oxygen evolution,11.602065,1.14786,61.261784,4.815082,9,"Figure 2h, j, S2.1"
+Blain & Shears 2020,10.1002/lno.11449,"Nordic Reef, Leigh, Hauraki Gulf, New Zealand",5–7,May,19.9,1.016656,Ed,NA,Oxygen evolution,7.036419,0.7976507,48.905003,4.118927,9,"Figure 2h, j, S2.1"
+Blain & Shears 2020,10.1002/lno.11449,"Nordic Reef, Leigh, Hauraki Gulf, New Zealand",5–7,May,19.9,1.016656,Ed,NA,Oxygen evolution,7.6616955,0.9338525,52.965916,6.149384,9,"Figure 2h, j, S2.1"
+Blain et al. 2020,10.1002/lno.11321,"Rangitoto Island, Hauraki Gulf, New Zealand",,February,NA,1.79036655,Ed,NA,Oxygen evolution,9.642636,1.969289,94.404335,23.610105,7–9,"Figure 1b, 6d, e"
+Blain et al. 2020,10.1002/lno.11321,"Motutapu Island, Hauraki Gulf, New Zealand",,February,NA,1.416878925,Ed,NA,Oxygen evolution,11.949856,1.658349,97.87003,11.046925,7–9,"Figure 1b, 6d, e"
+Blain et al. 2020,10.1002/lno.11321,"Noises Islands, Hauraki Gulf, New Zealand",,February,NA,2.568450375,Ed,NA,Oxygen evolution,13.864016,1.321487,83.574005,10.613715,7–9,"Figure 1b, 6d, e"
+Blain et al. 2020,10.1002/lno.11321,"Tiritiri Matangi Island, Hauraki Gulf, New Zealand",,February,NA,4.75032055,Ed,NA,Oxygen evolution,12.924895,1.606535,117.14802,15.595675,7–9,"Figure 1b, 6d, e"
+Blain et al. 2020,10.1002/lno.11321,"Motuora Island, Hauraki Gulf, New Zealand",,February,NA,3.4633703,Ed,NA,Oxygen evolution,15.001542,2.552302,144.65704,20.144406,7–9,"Figure 1b, 6d, e"
+Blain et al. 2020,10.1002/lno.11321,"V-Bay, Leigh, Hauraki Gulf, New Zealand",,February,NA,5.553125,Ed,NA,Oxygen evolution,13.933152,1.580623,173.03249,29.24187,7–9,"Figure 1b, 6d, e"
+Blain et al. 2020,10.1002/lno.11321,"Little Barrier Island, Hauraki Gulf, New Zealand",,February,NA,5.986474125,Ed,NA,Oxygen evolution,9.565782,1.075335,208.77257,19.7112,7–9,"Figure 1b, 6d, e"
+Blain et al. 2020,10.1002/lno.11321,"Katherine Bay, Great Barrier Island, Hauraki Gulf, New Zealand",,February,NA,5.7407274,Ed,NA,Oxygen evolution,16.977238,4.560459,246.89531,47.22021,7–9,"Figure 1b, 6d, e"
+Blain et al. 2020,10.1002/lno.11321,"Southwest Bay, Mokohinaus Islands, Hauraki Gulf, New Zealand",,February,NA,6.1510435,Ed,NA,Oxygen evolution,17.675676,2.7855,234.11552,53.06858,7–9,"Figure 1b, 6d, e"
